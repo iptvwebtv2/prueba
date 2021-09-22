@@ -30,6 +30,12 @@ http://stitcher.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8
 
 #EXTINF:-1, 225 Pluto TV Series
 http://stitcher.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?terminate=false&deviceId=80f16216-ced9-49b8-b2ad-130396ada4c5&deviceVersion=64.0&appVersion=2.4.1&deviceType=web&deviceMake=Firefox&sid=c05fe396-bd4b-409d-8d69-1dbf4a181b01&advertisingId=&deviceLat=40.8326&deviceLon=-74.1307&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSi7deAds=true
+#EXTINF:-1, 226 BBC Drama
+http://stitcher.pluto.tv/stitch/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?terminate=false&deviceId=80f16216-ced9-49b8-b2ad-130396ada4c5&deviceVersion=64.0&appVersion=2.4.1&deviceType=web&deviceMake=Firefox&sid=c05fe396-bd4b-409d-8d69-1dbf4a181b01&advertisingId=&deviceLat=40.8326&deviceLon=-74.1307&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSi7deAds=true
+#EXTINF:-1, 230 Doctor Who
+http://stitcher.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?terminate=false&deviceId=80f16216-ced9-49b8-b2ad-130396ada4c5&deviceVersion=64.0&appVersion=2.4.1&deviceType=web&deviceMake=Firefox&sid=c05fe396-bd4b-409d-8d69-1dbf4a181b01&advertisingId=&deviceLat=40.8326&deviceLon=-74.1307&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSi7deAds=true
+
+
 #EXTINF:-1, 240 Anime Clásico
 http://stitcher.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?terminate=false&deviceId=80f16216-ced9-49b8-b2ad-130396ada4c5&deviceVersion=64.0&appVersion=2.4.1&deviceType=web&deviceMake=Firefox&sid=c05fe396-bd4b-409d-8d69-1dbf4a181b01&advertisingId=&deviceLat=40.8326&deviceLon=-74.1307&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSi7deAds=true
 #EXTINF:-1, 245 Anime
@@ -165,6 +171,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?terminate=false&deviceId=80f16216-ced9-49b8-b2ad-130396ada4c5&deviceVersion=64.0&appVersion=2.4.1&deviceType=web&deviceMake=Firefox&sid=c05fe396-bd4b-409d-8d69-1dbf4a181b01&advertisingId=&deviceLat=40.8326&deviceLon=-74.1307&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSideAds=true
 #EXTINF:-1, L721 Pluto TV Kids
 http://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?terminate=false&deviceId=80f16216-ced9-49b8-b2ad-130396ada4c5&deviceVersion=64.0&appVersion=2.4.1&deviceType=web&deviceMake=Firefox&sid=c05fe396-bd4b-409d-8d69-1dbf4a181b01&advertisingId=&deviceLat=40.8326&deviceLon=-74.1307&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSi7deAds=true
+#EXTINF:-1, L723 Pluto TV Retro Cartoons
+http://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?terminate=false&deviceId=80f16216-ced9-49b8-b2ad-130396ada4c5&deviceVersion=64.0&appVersion=2.4.1&deviceType=web&deviceMake=Firefox&sid=c05fe396-bd4b-409d-8d69-1dbf4a181b01&advertisingId=&deviceLat=40.8326&deviceLon=-74.1307&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSi7deAds=true
 #EXTINF:-1, L730 Nick Clásico
 http://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?terminate=false&deviceId=80f16216-ced9-49b8-b2ad-130396ada4c5&deviceVersion=64.0&appVersion=2.4.1&deviceType=web&deviceMake=Firefox&sid=c05fe396-bd4b-409d-8d69-1dbf4a181b01&advertisingId=&deviceLat=40.8326&deviceLon=-74.1307&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSi7deAds=true
 #EXTINF:-1, L905 Conciertos Stingray 
