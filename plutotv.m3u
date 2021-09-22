@@ -135,6 +135,8 @@ https://alchimie-elpatio-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, L000 Guia de Canales 
 http://stitcher.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?terminate=false&deviceId=80f16216-ced9-49b8-b2ad-130396ada4c5&deviceVersion=64.0&appVersion=2.4.1&deviceType=web&deviceMake=Firefox&sid=c05fe396-bd4b-409d-8d69-1dbf4a181b01&advertisingId=&deviceLat=40.8326&deviceLon=-74.1307&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSi7deAds=true
+#EXTINF:-1, L001 Pluto TV FilmStream 
+http://stitcher.pluto.tv/stitch/hls/channel/5fcea359e533cb0007215c71/master.m3u8?terminate=false&deviceId=80f16216-ced9-49b8-b2ad-130396ada4c5&deviceVersion=64.0&appVersion=2.4.1&deviceType=web&deviceMake=Firefox&sid=c05fe396-bd4b-409d-8d69-1dbf4a181b01&advertisingId=&deviceLat=40.8326&deviceLon=-74.1307&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSi7deAds=true
 #EXTINF:-1, L104 Pluto TV Series Retro
 http://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?terminate=false&deviceId=80f16216-ced9-49b8-b2ad-130396ada4c5&deviceVersion=64.0&appVersion=2.4.1&deviceType=web&deviceMake=Firefox&sid=c05fe396-bd4b-409d-8d69-1dbf4a181b01&advertisingId=&deviceLat=19.4552&deviceLon=-99.0887&deviceDNT=0&deviceModel=Firefox&userId=&embedPartner=&appName=&serverSideAds=true
 #EXTINF:-1, L151 Nosey escándalos
